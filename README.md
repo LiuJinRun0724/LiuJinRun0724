@@ -1,8 +1,6 @@
 # 嗨，我是刘能 👋
 
-[![GitHub Followers](https://img.shields.io/github/followers/刘能?label=Follow%20Me&style=social)](https://github.com/刘能)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-刘能-blue?logo=linkedin)](https://www.linkedin.com/in/你的链接)
-[![Blog](https://img.shields.io/badge/个人博客-技术笔记-orange?logo=wordpress)](https://你的博客链接)
+[![GitHub Followers](https://img.shields.io/github/followers/刘能?label=Follow%20Me&style=social)](https://github.com/LiuJinRun0724)
 
 一名热爱编程的前端开发者，喜欢探索新技术并解决实际问题。  
 
@@ -41,7 +39,7 @@
 
 | 项目名称          | 描述                          | 技术栈                |
 |-------------------|-------------------------------|-----------------------|
-| [可视化平台]([链接](https://github.com/LiuJinRun0724/Vue-System)) | 基于Vue+Node.js的数据可视化平台 | Vue, Node.js, MySQL   |
+| [可视化平台](https://github.com/LiuJinRun0724/Vue-System) | 基于Vue+Node.js的数据可视化平台 | Vue, Node.js, MySQL   |
 | [个人博客](开发中) | 基于Vue+Node.js的个人博客系统   | Vue, Node.js, MySQL   |（开发中）
 
 
