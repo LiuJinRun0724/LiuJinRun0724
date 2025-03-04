@@ -30,10 +30,10 @@
 ### 📊 GitHub 活跃统计
 
 <!-- GitHub Stats Card -->
-[![刘能的 GitHub Stats](https://github-readme-stats.vercel.app/api?username=刘能&show_icons=true&theme=radical)](https://github.com/刘能)
+[![刘能的 GitHub Stats](https://github-readme-stats.vercel.app/api?username=LiuJinRun0724&show_icons=true&theme=radical)](https://github.com/刘能)
 
 <!-- 常用编程语言 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=刘能&layout=compact&theme=vision-friendly-dark)](https://github.com/刘能)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiuJinRun0724&layout=compact&theme=vision-friendly-dark)](https://github.com/刘能)
 
 ---
 
