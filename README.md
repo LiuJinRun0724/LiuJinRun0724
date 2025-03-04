@@ -41,8 +41,8 @@
 
 | 项目名称          | 描述                          | 技术栈                |
 |-------------------|-------------------------------|-----------------------|
-| [可视化平台](链接) | 基于Vue+Node.js的数据可视化平台 | Vue, Node.js, MySQL   |
-| [个人博客]  (链接) | 基于Vue+Node.js的个人博客系统   | Vue, Node.js, MySQL   |（开发中）
+| [可视化平台]([链接](https://github.com/LiuJinRun0724/Vue-System)) | 基于Vue+Node.js的数据可视化平台 | Vue, Node.js, MySQL   |
+| [个人博客](开发中) | 基于Vue+Node.js的个人博客系统   | Vue, Node.js, MySQL   |（开发中）
 
 
 ---
@@ -53,5 +53,4 @@
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=刘能&color=blueviolet)  
 *✨ 持续更新中...*
